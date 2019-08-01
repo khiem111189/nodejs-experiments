@@ -6,4 +6,5 @@ Target of this expriment is utilizing the event-driven programming approach of N
 This idea was inspired from a Java Project that supports both web aplication and CLI in the one WAR package: <https://github.com/is-already-taken/executable-war-example>.
 
 * Sample:
+
 ![sample-cli-interactive-server](/assets/sample-cli-interactive-server.PNG)
